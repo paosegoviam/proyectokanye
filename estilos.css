@@ -1,0 +1,35 @@
+@charset "utf-8";
+#contenedor {
+    height: 800px;
+    width: 100%;
+}
+#encabezado {
+    background-color: #E1B5C3;
+    height: 150px;
+    width: 100%;
+}
+#contenedor2 {
+    height: 500px;
+    width: 100%;
+}
+#menú {
+    background-color: #DB5D85;
+}
+#menú {
+    background-color: #DF686A;
+    float: left;
+    height: 500px;
+    width: 25%;
+}
+#contenido {
+    background-color: #FF92B7;
+    float: left;
+    height: 500px;
+    width: 75%;
+}
+#pie {
+    background-color: #FF7F81;
+    clear: both;
+    height: 150px;
+    width: 100%;
+}
